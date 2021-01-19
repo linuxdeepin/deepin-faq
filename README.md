@@ -1,3 +1,3 @@
-# deepin-faq
-## Ë÷Òý
-	[1.Ê²Ã´ÊÇDeepin](./docs/1.What's deepin.md)
+ï»¿# deepin-faq
+## ç´¢å¼•
+	[1.ä»€ä¹ˆæ˜¯Deepin](./docs/1.What's deepin.md)
